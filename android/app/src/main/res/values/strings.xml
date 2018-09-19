@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GLRead</string>
+    <string name="title_activity_my_map_intent_module">MyMapIntentModule</string>
+    <string name="title_activity_gl_test">GlTestActivity</string>
+</resources>
