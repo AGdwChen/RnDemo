@@ -2,13 +2,11 @@
  * Copyright (c) 2017-present, Liu Jinyong
  * All rights reserved.
  *
- * https://github.com/huanxsd/MeiTuan  
  * @flow
  */
 
 
-var apiPath = 'https://guoli.bdtrip.com.cn/api';
-var sourcePath = 'https://gloss.bdtrip.com.cn/';
+
 
 export default {
     sourceHost: sourcePath,
